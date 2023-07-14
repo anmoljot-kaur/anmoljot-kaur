@@ -1,4 +1,44 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Anmol! <br/>AWS re/start Trainee, Google Certified Data Analyst</h1>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b> Linux </b>
+
+- 
+- <b>Networking</b>
+
+  - 
+- <b>Security</b>
+
+  - 
+- <b>Databases</b>
+
+  - 
+- <b>Python Programming</b>
+
+  - 
+- <b>Other Major AWS Services</b>
+
+
+- <b>Resources</b>
+
+
+
+
+<h2>👨‍💻 Certifications:</h2>
+
+- [Information Technology Fundamentals by IBM](https://www.credly.com/badges/ac0f2416-99d0-498e-b983-7ec8b72d31c5/linked_in_profile) <br>
+- [Google Data Analytics Specialization](https://www.credly.com/badges/47c48539-3ce4-4e30-8301-b0f552cb1777?source=linked_in_profile) <br>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AnmoljotKaur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnmoljotKaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[linkedin]: https://www.linkedin.com/in/anmoljot-kaur-5b9914157
+[twitter]: https://twitter.com/anmoljotkaur__
 
 <!--
 **anmoljot-kaur/anmoljot-kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
