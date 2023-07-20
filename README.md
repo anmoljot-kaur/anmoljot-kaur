@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm Anmol! <br/>AWS re/start Trainee, Google Certified Data Analyst</h1>
+<h1>Hi 👋, I'm Anmol! <br/>AWS re/start Trainee, Google Certified Data Analyst</h1><br>
 
 <body> 
 <b>🎓 I have a Bachelor's in Computer Science from Algoma University </b><br>
 <b>🌱 I’m currently learning AWS Cloud Computing </b><br>
 <b> 📍 I'm currently living in Brampton, Canada </b>
-</body>
+</body><br>
 
 
 <h2>👨‍💻 Certifications:</h2>
