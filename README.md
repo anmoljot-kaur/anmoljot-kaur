@@ -1,28 +1,5 @@
 <h1>Hi 👋, I'm Anmol! <br/>AWS re/start Trainee, Google Certified Data Analyst</h1>
 
-<h2>👨‍💻 Projects:</h2>
-
-- <b> Linux </b>
-
-- 
-- <b>Networking</b>
-
-  - 
-- <b>Security</b>
-
-  - 
-- <b>Databases</b>
-
-  - 
-- <b>Python Programming</b>
-
-  - 
-- <b>Other Major AWS Services</b>
-
-
-- <b>Resources</b>
-
-
 
 
 <h2>👨‍💻 Certifications:</h2>
