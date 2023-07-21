@@ -18,7 +18,7 @@
 [<img align="left" alt="AnmoljotKaur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AnmoljotKaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[linkedin]: https://www.linkedin.com/in/anmoljot-kaur-5b9914157
+[linkedin]: https://www.linkedin.com/in/anmoljot-kaur
 [twitter]: https://twitter.com/anmoljotkaur__
 
 <!--
