@@ -3,7 +3,6 @@
 <body> 
 <b>🎓 I have a Bachelor's in Computer Science from Algoma University </b><br>
 <b>🌱 I’m currently learning AWS Cloud Computing </b><br>
-<b> 📍 I'm currently living in Brampton, Canada </b>
 </body><br>
 
 
