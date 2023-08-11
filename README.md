@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Anmol! <br/>AWS re/start Trainee, Google Certified Data Analyst</h1><br>
+<h1>Hi 👋, I'm Anmol! <br/>AWS Certified Cloud Practitioner, Google Certified Data Analyst</h1><br>
 
 <body> 
 <b>🎓 I have a Bachelor's in Computer Science from Algoma University </b><br>
