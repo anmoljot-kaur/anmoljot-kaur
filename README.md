@@ -8,6 +8,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/66be2f0b-4839-4a5a-b9be-0630ed04ee3d/public_url) <br>
 - [Information Technology Fundamentals by IBM](https://www.credly.com/badges/ac0f2416-99d0-498e-b983-7ec8b72d31c5/linked_in_profile) <br>
 - [Google Data Analytics Specialization](https://www.credly.com/badges/47c48539-3ce4-4e30-8301-b0f552cb1777?source=linked_in_profile) <br>
 
